@@ -16,7 +16,7 @@ new Watcher( () => user.first, callback );
 
 // change the state
 user.first = 'Des';
-user.last = 'Preston';
+user.first = 'Kevin';
 
 
 /*****************************************************/
@@ -42,4 +42,4 @@ Object.entries( component.computed ).forEach( ( [ key, val ] ) => {
 
 
 // 🎉 🎉 🎉
-user.first = 'Don';
+user.first = 'Kenny';
