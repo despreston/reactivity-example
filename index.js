@@ -43,3 +43,4 @@ Object.entries( component.computed ).forEach( ( [ key, val ] ) => {
 
 // 🎉 🎉 🎉
 user.first = 'Kenny';
+user.last  = 'Loggins';
